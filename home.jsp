@@ -18,7 +18,7 @@
                             <div class="col-lg-8 col-md-8"> <!-- style="text-align:center;"> -->
                                 <div style="margin: 0 auto;max-width:700px;">
                                     <img src="/images/icons/caution_sm.png">
-                                    <h4 style="color:#800000;margin-bottom:0;">Please excuse any bugs and quirks as we upgrade IFTDSS. Report any new defects or bugs to our <a href="mailto:IFTDSS.help@gmail.com?subject=IFTDSS%20Feedback">FEEDBACK email.</a></h4>
+                                    <h4 style="color:#800000;margin-bottom:0;">Please excuse any bugs and quirks as we upgrade IFTDSS. Report any new defects or bugs to our <a href="mailto:IFTDSS.help@gmail.com?subject=IFTDSS%20Feedback">Feedback email.</a></h4>
                                     <h1 style="color:#788a51;margin-bottom:0;">Welcome to IFTDSS</h1>
                                     <h3 style="margin-top:10px;">The Interagency Fuels Treatment Decision Support System</h3>
                                     <p style="font-size:16px;line-height:24px;margin:0 auto;font-family:'Helvetica Neue Light', 'Helvetica Neue', Arial, sans-serif;">
