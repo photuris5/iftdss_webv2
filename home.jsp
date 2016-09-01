@@ -22,7 +22,7 @@
                                     <h1 style="color:#788a51;margin-bottom:0;">Welcome to IFTDSS</h1>
                                     <h3 style="margin-top:10px;">The Interagency Fuels Treatment Decision Support System</h3>
                                     <p style="font-size:16px;line-height:24px;margin:0 auto;font-family:'Helvetica Neue Light', 'Helvetica Neue', Arial, sans-serif;">
-                                        IFTDSS 2.0 is a web-based software and data integration framework that
+                                        IFTDSS is a web-based software and data integration framework that
                                         organizes previously existing and newly developed fire and fuels software applications
                                         to make fuels treatment planning and analysis more efficient and effective.
                                     </p>
