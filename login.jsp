@@ -52,14 +52,13 @@
         <br>
 
         <span style="font-size:12px;">
-        IFTDSS will remain in a Beta Development phase until 2017. So come on...get your hands dirty,
-        provide some feedback and see what IFTDSS can do for YOU!
+        Projects, data, model runs, and outputs will <strong>NOT</strong> be transferred to the new IFTDSS! in 2017. Please backup your work locally. We will keep eveyone posted on the plan to phase out 2.0 beta as development proceeds.
         </span>
 
         <hr>
 
         <span style="font-size:18px;color:#4D5934;font-weight:bold">
-        <a href="/documentation/Content/Resources/PDFs/IFTDSS_April2016_Bulletin.pdf">IFTDSS Information Bulletin-April 2016</a>
+        <a href="https://www.frames.gov/partner-sites/iftdss/iftdss-home/">Click HERE for more information</a>
         </span>
         <hr>
         <span style="font-size:18px;color:#4D5934;font-weight:bold">
