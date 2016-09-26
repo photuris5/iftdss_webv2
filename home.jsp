@@ -18,7 +18,7 @@
                             <div class="col-lg-8 col-md-8"> <!-- style="text-align:center;"> -->
                                 <div style="margin: 0 auto;max-width:700px;">
                                     <img src="/images/icons/caution_sm.png">
-                                    <h4 style="color:#800000;margin-bottom:0;">A BRAND NEW IFTDSS! is under construction. Continue to use this 2.0 beta version until the new web application is available in early 2017. Be aware there will be limited support for IFTDSS 2.0 beta. Inquiries may be sent via the <a href="mailto:IFTDSS.help@firenet.gov?subject=IFTDSS%20Feedback">IFTDSS FEEDBACK email.</a></h4>
+                                    <h4 style="color:#800000;margin-bottom:0;">A BRAND NEW IFTDSS! with full support is under construction. Continue to use the 2.0 beta version until the new web application is available in early 2017. Support for IFTDSS 2.0 will be limited. Inquiries may be sent via the <a href="mailto:IFTDSS.help@firenet.gov?subject=IFTDSS%20Feedback">IFTDSS FEEDBACK email.</a></h4>
                                     <h1 style="color:#788a51;margin-bottom:0;">Welcome to IFTDSS</h1>
                                     <h3 style="margin-top:10px;">The Interagency Fuels Treatment Decision Support System</h3>
                                     <p style="font-size:16px;line-height:24px;margin:0 auto;font-family:'Helvetica Neue Light', 'Helvetica Neue', Arial, sans-serif;">
